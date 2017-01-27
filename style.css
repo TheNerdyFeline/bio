@@ -1,0 +1,18 @@
+body {
+    background: #304150;
+    max-width: 750px;
+    margin: 0 auto 0 auto;
+}
+h1 {
+    color: #4E0B87;
+    weight: bold;
+}
+
+#kenzi {
+    width: 250px;
+}
+
+p {
+    color: #1E8117;
+    font-family: sans serif;
+}
